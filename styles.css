@@ -136,7 +136,7 @@ body {
 
 @media only screen and (max-height: 768px) {
   .slika--demon {
-    bottom: -10%;
+    bottom: 0;
     top: auto;
     left: 30%;
     width: 70%;  
