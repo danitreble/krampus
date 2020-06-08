@@ -136,12 +136,12 @@ body {
 
 @media only screen and (max-height: 768px) {
   .slika--demon {
-    bottom: 0%;
+    bottom: -10%;
     top: auto;
     left: 30%;
     width: 70%;  
    }
-   
+
    .krampus__container {
     overflow: hidden;
   }
